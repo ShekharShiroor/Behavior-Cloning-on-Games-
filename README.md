@@ -2,6 +2,8 @@
 
 Small project on Neural network playing game of pong by behavior cloning which I implemented for my Artificial Intelligence Class at CSUS
 
+![](https://github.com/ShekharShiroor/Behavior-Cloning-on-Games-/blob/master/PongProjectV2.gif)
+
 # Future Scope
 
 Can be improved by training on models like Resnet 50 and so on. Also can be combined with reinforcement learning to get more accurate results.
